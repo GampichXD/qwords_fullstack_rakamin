@@ -1,0 +1,20 @@
+{
+  "public/img/hero-bg-1.jpg": {
+    "file": "assets/hero-bg-1-3_C0qLUI.jpg",
+    "src": "public/img/hero-bg-1.jpg"
+  },
+  "public/img/pattern-bg.jpg": {
+    "file": "assets/pattern-bg-ZOQiPxbV.jpg",
+    "src": "public/img/pattern-bg.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-6EF109fq.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-nuYjl1LE.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
