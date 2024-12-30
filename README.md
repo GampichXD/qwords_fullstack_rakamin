@@ -104,6 +104,7 @@ _Untuk informasi lebih lanjut tentang cara menjalankan proyek Laravel, Anda dapa
 ![Hero-section](/public/img/Screenshott.png)
 
 # Credits For Source
+Thanks for sharing code to public!
 Project Source: [https://github.com/Amar-arruf/Qword-landing-page](https://github.com/Amar-arruf/Qword-landing-page)
 
 # Contact Me
